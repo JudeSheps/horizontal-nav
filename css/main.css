@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #dbd6cf;
   color: #fff;
+    font-family: 'Bevan';
 }
 
 *, *::before, *::after {
@@ -27,7 +28,7 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 0.25em 0 0 0;
-  font-family: "Bevan";
+  font-family: 'Bevan', cursive;
 }
 
 .list {
